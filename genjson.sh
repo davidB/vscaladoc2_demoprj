@@ -2,7 +2,7 @@
 
 REPO=$HOME/.m2/repository
 SCALA_VERSION=2.8.0
-VSCALADOC2_VERSION=0.1-SNAPSHOT
+VSCALADOC2_VERSION=0.1
 
 PRJ_DIR=$(dirname $0)
 CFG_FILE=${PRJ_DIR}/target/vscaladoc2_cfg.json
