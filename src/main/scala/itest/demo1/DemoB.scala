@@ -39,6 +39,7 @@ trait DemoB {
 }
 
 case class DemoCaseClass(att1: String, val att2: String, var att3: String)
+
 case object DemoCaseObject{
  val att2 = ""
  var att3 = ""

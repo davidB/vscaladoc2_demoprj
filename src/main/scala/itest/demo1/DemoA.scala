@@ -31,6 +31,8 @@ object DemoA {
    * @return concatenation of i and s
    */
   def twoArgs(i: Int, s: String) = {s.length + i}
+
+  def apply() : DemoA = new DemoA
 }
 
 /**
