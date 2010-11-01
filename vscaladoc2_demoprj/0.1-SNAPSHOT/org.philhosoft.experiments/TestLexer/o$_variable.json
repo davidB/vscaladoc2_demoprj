@@ -1,0 +1,14 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments/TestLexer/o$_variable",
+  "e" : [ {
+    "name" : "variable",
+    "qualifiedName" : "org.philhosoft.experiments.TestLexer#variable",
+    "definitionName" : "org.philhosoft.experiments.TestLexer#variable",
+    "flags" : "Public()",
+    "inheritedFrom" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments/TestLexer" ],
+    "visibility" : [ ],
+    "resultType" : [ [ "Int", "scala-library/2.8.0/scala/Int" ] ],
+    "isUseCase" : false,
+    "kind" : "var"
+  } ]
+}

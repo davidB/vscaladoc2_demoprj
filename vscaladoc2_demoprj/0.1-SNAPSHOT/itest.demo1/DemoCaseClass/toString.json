@@ -1,0 +1,18 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoCaseClass/toString",
+  "e" : [ {
+    "name" : "toString",
+    "qualifiedName" : "itest.demo1.DemoCaseClass#toString",
+    "definitionName" : "itest.demo1.DemoCaseClass#toString",
+    "description" : "<p>Returns a string representation of the object.</p><p>The default representation is platform dependent.\n</p>",
+    "docTags" : [ ],
+    "flags" : "Public()",
+    "inheritedFrom" : [ ],
+    "visibility" : [ ],
+    "resultType" : [ [ "String", "jse/1.6.0_22/java.lang/String" ] ],
+    "isUseCase" : false,
+    "typeParams" : [ ],
+    "valueParams" : [ [ "( )" ] ],
+    "kind" : "def"
+  } ]
+}

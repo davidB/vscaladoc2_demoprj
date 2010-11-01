@@ -1,0 +1,14 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments/TestLexer/o$_愛_あい_$u2665",
+  "e" : [ {
+    "name" : "愛_あい_♥",
+    "qualifiedName" : "org.philhosoft.experiments.TestLexer#愛_あい_♥",
+    "definitionName" : "org.philhosoft.experiments.TestLexer#愛_あい_♥",
+    "flags" : "Public()",
+    "inheritedFrom" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments/TestLexer" ],
+    "visibility" : [ ],
+    "resultType" : [ [ "String", "jse/1.6.0_22/java.lang/String" ] ],
+    "isUseCase" : false,
+    "kind" : "val"
+  } ]
+}

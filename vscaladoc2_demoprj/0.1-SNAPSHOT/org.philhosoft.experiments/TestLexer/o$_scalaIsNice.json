@@ -1,0 +1,14 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments/TestLexer/o$_scalaIsNice",
+  "e" : [ {
+    "name" : "scalaIsNice",
+    "qualifiedName" : "org.philhosoft.experiments.TestLexer#scalaIsNice",
+    "definitionName" : "org.philhosoft.experiments.TestLexer#scalaIsNice",
+    "flags" : "Public()",
+    "inheritedFrom" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments/TestLexer" ],
+    "visibility" : [ ],
+    "resultType" : [ [ "Boolean", "scala-library/2.8.0/scala/Boolean" ] ],
+    "isUseCase" : false,
+    "kind" : "var"
+  } ]
+}

@@ -1,0 +1,14 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoCaseObject/o$_att2",
+  "e" : [ {
+    "name" : "att2",
+    "qualifiedName" : "itest.demo1.DemoCaseObject#att2",
+    "definitionName" : "itest.demo1.DemoCaseObject#att2",
+    "flags" : "Public()",
+    "inheritedFrom" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoCaseObject" ],
+    "visibility" : [ ],
+    "resultType" : [ [ "String", "jse/1.6.0_22/java.lang/String" ] ],
+    "isUseCase" : false,
+    "kind" : "val"
+  } ]
+}

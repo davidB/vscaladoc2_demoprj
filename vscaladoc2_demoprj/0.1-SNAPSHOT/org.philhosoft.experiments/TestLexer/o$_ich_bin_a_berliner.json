@@ -1,0 +1,14 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments/TestLexer/o$_ich_bin_a_berliner",
+  "e" : [ {
+    "name" : "ich_bin_a_berliner",
+    "qualifiedName" : "org.philhosoft.experiments.TestLexer#ich_bin_a_berliner",
+    "definitionName" : "org.philhosoft.experiments.TestLexer#ich_bin_a_berliner",
+    "flags" : "Public()",
+    "inheritedFrom" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments/TestLexer" ],
+    "visibility" : [ ],
+    "resultType" : [ [ "String", "jse/1.6.0_22/java.lang/String" ] ],
+    "isUseCase" : false,
+    "kind" : "val"
+  } ]
+}

@@ -1,0 +1,16 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoA/o$_noArgsReturnString",
+  "e" : [ {
+    "name" : "noArgsReturnString",
+    "qualifiedName" : "itest.demo1.DemoA#noArgsReturnString",
+    "definitionName" : "itest.demo1.DemoA#noArgsReturnString",
+    "flags" : "Public()",
+    "inheritedFrom" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoA" ],
+    "visibility" : [ ],
+    "resultType" : [ [ "String", "jse/1.6.0_22/java.lang/String" ] ],
+    "isUseCase" : false,
+    "typeParams" : [ ],
+    "valueParams" : [ ],
+    "kind" : "def"
+  } ]
+}

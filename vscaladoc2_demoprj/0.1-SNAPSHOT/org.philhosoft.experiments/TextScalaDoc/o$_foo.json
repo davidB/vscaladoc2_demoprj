@@ -1,0 +1,18 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments/TextScalaDoc/o$_foo",
+  "e" : [ {
+    "name" : "foo",
+    "qualifiedName" : "org.philhosoft.experiments.TextScalaDoc#foo",
+    "definitionName" : "org.philhosoft.experiments.TextScalaDoc#foo",
+    "description" : "<p>An uninteresting function.</p>",
+    "docTags" : [ ],
+    "flags" : "Public()",
+    "inheritedFrom" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments/TextScalaDoc" ],
+    "visibility" : [ ],
+    "resultType" : [ [ "String", "jse/1.6.0_22/java.lang/String" ] ],
+    "isUseCase" : false,
+    "typeParams" : [ ],
+    "valueParams" : [ [ "( " ], [ "x : " ], [ "Int", "scala-library/2.8.0/scala/Int" ], [ " )" ] ],
+    "kind" : "def"
+  } ]
+}

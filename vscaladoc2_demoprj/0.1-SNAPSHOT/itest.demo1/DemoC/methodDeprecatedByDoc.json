@@ -1,0 +1,19 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoC/methodDeprecatedByDoc",
+  "e" : [ {
+    "name" : "methodDeprecatedByDoc",
+    "qualifiedName" : "itest.demo1.DemoC#methodDeprecatedByDoc",
+    "definitionName" : "itest.demo1.DemoC#methodDeprecatedByDoc",
+    "description" : "",
+    "docTags" : [ ],
+    "flags" : "Public()",
+    "deprecation" : "<p>replace by nothing\n</p>",
+    "inheritedFrom" : [ ],
+    "visibility" : [ ],
+    "resultType" : [ [ "Unit", "scala-library/2.8.0/scala/Unit" ] ],
+    "isUseCase" : false,
+    "typeParams" : [ ],
+    "valueParams" : [ [ "( )" ] ],
+    "kind" : "def"
+  } ]
+}

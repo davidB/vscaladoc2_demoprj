@@ -1,0 +1,14 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments/TestLexer/o$_$plus$plus$plus",
+  "e" : [ {
+    "name" : "+++",
+    "qualifiedName" : "org.philhosoft.experiments.TestLexer#+++",
+    "definitionName" : "org.philhosoft.experiments.TestLexer#+++",
+    "flags" : "Public()",
+    "inheritedFrom" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments/TestLexer" ],
+    "visibility" : [ ],
+    "resultType" : [ [ "Double", "scala-library/2.8.0/scala/Double" ] ],
+    "isUseCase" : false,
+    "kind" : "var"
+  } ]
+}

@@ -1,0 +1,16 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoCaseObject/o$_readResolve",
+  "e" : [ {
+    "name" : "readResolve",
+    "qualifiedName" : "itest.demo1.DemoCaseObject#readResolve",
+    "definitionName" : "itest.demo1.DemoCaseObject#readResolve",
+    "flags" : "ProtectedInTemplate(itest.demo1.DemoCaseObject)",
+    "inheritedFrom" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoCaseObject" ],
+    "visibility" : [ [ "protected" ] ],
+    "resultType" : [ [ "AnyRef" ] ],
+    "isUseCase" : false,
+    "typeParams" : [ ],
+    "valueParams" : [ [ "( )" ] ],
+    "kind" : "def"
+  } ]
+}

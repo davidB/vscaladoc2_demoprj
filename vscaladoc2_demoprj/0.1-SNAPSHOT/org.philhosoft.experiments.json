@@ -1,0 +1,22 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments",
+  "e" : [ {
+    "name" : "experiments",
+    "qualifiedName" : "org.philhosoft.experiments",
+    "definitionName" : "org.philhosoft.experiments",
+    "flags" : "Public()",
+    "inheritedFrom" : [ ],
+    "visibility" : [ ],
+    "resultType" : [ [ "experiments", "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments" ] ],
+    "subClassesK" : [ ],
+    "members" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments/TestLexer", "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments/TextScalaDoc" ],
+    "templates" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments/TestLexer", "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments/TextScalaDoc" ],
+    "methods" : [ ],
+    "values" : [ ],
+    "abstractTypes" : [ ],
+    "aliasTypes" : [ ],
+    "linearization" : [ ],
+    "packages" : [ ],
+    "kind" : "package"
+  } ]
+}

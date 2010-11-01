@@ -1,0 +1,18 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoCaseObject/o$_toString",
+  "e" : [ {
+    "name" : "toString",
+    "qualifiedName" : "itest.demo1.DemoCaseObject#toString",
+    "definitionName" : "itest.demo1.DemoCaseObject#toString",
+    "description" : "<p>Returns a string representation of the object.</p><p>The default representation is platform dependent.\n</p>",
+    "docTags" : [ ],
+    "flags" : "Public()",
+    "inheritedFrom" : [ "scala-library/2.8.0/scala/Any", "scala-library/2.8.0/scala/AnyRef", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoCaseObject" ],
+    "visibility" : [ ],
+    "resultType" : [ [ "String", "jse/1.6.0_22/java.lang/String" ] ],
+    "isUseCase" : false,
+    "typeParams" : [ ],
+    "valueParams" : [ [ "( )" ] ],
+    "kind" : "def"
+  } ]
+}

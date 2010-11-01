@@ -1,0 +1,22 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/org",
+  "e" : [ {
+    "name" : "org",
+    "qualifiedName" : "org",
+    "definitionName" : "_root_.org",
+    "flags" : "Public()",
+    "inheritedFrom" : [ ],
+    "visibility" : [ ],
+    "resultType" : [ [ "org", "vscaladoc2_demoprj/0.1-SNAPSHOT/org" ] ],
+    "subClassesK" : [ ],
+    "members" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft" ],
+    "templates" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft" ],
+    "methods" : [ ],
+    "values" : [ ],
+    "abstractTypes" : [ ],
+    "aliasTypes" : [ ],
+    "linearization" : [ ],
+    "packages" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft" ],
+    "kind" : "package"
+  } ]
+}

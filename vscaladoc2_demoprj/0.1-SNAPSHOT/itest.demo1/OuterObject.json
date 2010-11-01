@@ -1,0 +1,23 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/OuterObject",
+  "e" : [ {
+    "name" : "OuterObject",
+    "qualifiedName" : "itest.demo1.OuterObject",
+    "definitionName" : "itest.demo1.OuterObject",
+    "flags" : "Public()",
+    "inheritedFrom" : [ ],
+    "visibility" : [ ],
+    "resultType" : [ [ "OuterObject", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/OuterObject" ] ],
+    "sourceStartPoint" : [ "/home/dwayne/work/oss/vscaladoc2_demoprj/src/main/scala/itest/demo1/outerinner.scala", 3 ],
+    "subClassesK" : [ ],
+    "members" : [ "scala-library/2.8.0/scala/Any/1.OuterObject$hash$bang$eq", "scala-library/2.8.0/scala/Any/1.OuterObject$hash$eq$eq", "scala-library/2.8.0/scala/Any/1.OuterObject$hashasInstanceOf", "scala-library/2.8.0/scala/Any/1.OuterObject$hashisInstanceOf", "scala-library/2.8.0/scala/AnyRef/uterObject$hash$asInstanceOf", "scala-library/2.8.0/scala/AnyRef/uterObject$hash$bang$eq", "scala-library/2.8.0/scala/AnyRef/uterObject$hash$eq$eq", "scala-library/2.8.0/scala/AnyRef/uterObject$hash$hash$hash", "scala-library/2.8.0/scala/AnyRef/uterObject$hash$isInstanceOf", "scala-library/2.8.0/scala/AnyRef/uterObject$hashclone", "scala-library/2.8.0/scala/AnyRef/uterObject$hasheq", "scala-library/2.8.0/scala/AnyRef/uterObject$hashequals", "scala-library/2.8.0/scala/AnyRef/uterObject$hashfinalize", "scala-library/2.8.0/scala/AnyRef/uterObject$hashgetClass", "scala-library/2.8.0/scala/AnyRef/uterObject$hashhashCode", "scala-library/2.8.0/scala/AnyRef/uterObject$hashne", "scala-library/2.8.0/scala/AnyRef/uterObject$hashnotify", "scala-library/2.8.0/scala/AnyRef/uterObject$hashnotifyAll", "scala-library/2.8.0/scala/AnyRef/uterObject$hashsynchronized", "scala-library/2.8.0/scala/AnyRef/uterObject$hashtoString", "scala-library/2.8.0/scala/AnyRef/uterObject$hashwait", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/OuterObject.InnerClass", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/OuterObject.InnerObject", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/OuterObject/o$_InnerType" ],
+    "templates" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/OuterObject.InnerClass", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/OuterObject.InnerObject" ],
+    "methods" : [ "scala-library/2.8.0/scala/Any/1.OuterObject$hash$bang$eq", "scala-library/2.8.0/scala/Any/1.OuterObject$hash$eq$eq", "scala-library/2.8.0/scala/Any/1.OuterObject$hashasInstanceOf", "scala-library/2.8.0/scala/Any/1.OuterObject$hashisInstanceOf", "scala-library/2.8.0/scala/AnyRef/uterObject$hash$asInstanceOf", "scala-library/2.8.0/scala/AnyRef/uterObject$hash$bang$eq", "scala-library/2.8.0/scala/AnyRef/uterObject$hash$eq$eq", "scala-library/2.8.0/scala/AnyRef/uterObject$hash$hash$hash", "scala-library/2.8.0/scala/AnyRef/uterObject$hash$isInstanceOf", "scala-library/2.8.0/scala/AnyRef/uterObject$hashclone", "scala-library/2.8.0/scala/AnyRef/uterObject$hasheq", "scala-library/2.8.0/scala/AnyRef/uterObject$hashequals", "scala-library/2.8.0/scala/AnyRef/uterObject$hashfinalize", "scala-library/2.8.0/scala/AnyRef/uterObject$hashgetClass", "scala-library/2.8.0/scala/AnyRef/uterObject$hashhashCode", "scala-library/2.8.0/scala/AnyRef/uterObject$hashne", "scala-library/2.8.0/scala/AnyRef/uterObject$hashnotify", "scala-library/2.8.0/scala/AnyRef/uterObject$hashnotifyAll", "scala-library/2.8.0/scala/AnyRef/uterObject$hashsynchronized", "scala-library/2.8.0/scala/AnyRef/uterObject$hashtoString", "scala-library/2.8.0/scala/AnyRef/uterObject$hashwait" ],
+    "values" : [ ],
+    "abstractTypes" : [ ],
+    "aliasTypes" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/OuterObject/o$_InnerType" ],
+    "parentType" : [ [ "AnyRef" ] ],
+    "linearization" : [ "scala-library/2.8.0/scala/AnyRef", "scala-library/2.8.0/scala/Any" ],
+    "kind" : "object"
+  } ]
+}

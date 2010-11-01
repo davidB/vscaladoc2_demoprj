@@ -1,0 +1,30 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoC/doStuff",
+  "e" : [ {
+    "name" : "doStuff",
+    "qualifiedName" : "itest.demo1.DemoC#doStuff",
+    "definitionName" : "itest.demo1.DemoC#doStuff",
+    "description" : "<p>sample doStuff method\n</p>",
+    "docTags" : [ ],
+    "flags" : "Public()",
+    "inheritedFrom" : [ ],
+    "visibility" : [ ],
+    "resultType" : [ [ "String", "jse/1.6.0_22/java.lang/String" ] ],
+    "isUseCase" : false,
+    "typeParams" : [ ],
+    "valueParams" : [ [ "( " ], [ "s : " ], [ "String", "jse/1.6.0_22/java.lang/String" ], [ " )" ] ],
+    "kind" : "def"
+  }, {
+    "name" : "doStuff",
+    "qualifiedName" : "itest.demo1.DemoC#doStuff",
+    "definitionName" : "itest.demo1.DemoC#doStuff",
+    "flags" : "Public()",
+    "inheritedFrom" : [ ],
+    "visibility" : [ ],
+    "resultType" : [ [ "String", "jse/1.6.0_22/java.lang/String" ] ],
+    "isUseCase" : false,
+    "typeParams" : [ ],
+    "valueParams" : [ [ "( " ], [ "i : " ], [ "Int", "scala-library/2.8.0/scala/Int" ], [ " )" ] ],
+    "kind" : "def"
+  } ]
+}

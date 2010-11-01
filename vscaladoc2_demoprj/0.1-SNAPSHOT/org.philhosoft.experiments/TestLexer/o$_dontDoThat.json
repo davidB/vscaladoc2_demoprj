@@ -1,0 +1,14 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments/TestLexer/o$_dontDoThat",
+  "e" : [ {
+    "name" : "dontDoThat",
+    "qualifiedName" : "org.philhosoft.experiments.TestLexer#dontDoThat",
+    "definitionName" : "org.philhosoft.experiments.TestLexer#dontDoThat",
+    "flags" : "Public()",
+    "inheritedFrom" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments/TestLexer" ],
+    "visibility" : [ ],
+    "resultType" : [ [ "Null", "scala-library/2.8.0/scala/Null" ] ],
+    "isUseCase" : false,
+    "kind" : "var"
+  } ]
+}

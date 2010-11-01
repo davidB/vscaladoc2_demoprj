@@ -1,0 +1,14 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoC/ctorArg2",
+  "e" : [ {
+    "name" : "ctorArg2",
+    "qualifiedName" : "itest.demo1.DemoC#ctorArg2",
+    "definitionName" : "itest.demo1.DemoC#ctorArg2",
+    "flags" : "Public()",
+    "inheritedFrom" : [ ],
+    "visibility" : [ ],
+    "resultType" : [ [ "String", "jse/1.6.0_22/java.lang/String" ] ],
+    "isUseCase" : false,
+    "kind" : "val"
+  } ]
+}

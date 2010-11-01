@@ -1,0 +1,15 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/OuterObject/o$_InnerType",
+  "e" : [ {
+    "name" : "InnerType",
+    "qualifiedName" : "itest.demo1.OuterObject#InnerType",
+    "definitionName" : "itest.demo1.OuterObject#InnerType",
+    "flags" : "Public()",
+    "inheritedFrom" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/OuterObject" ],
+    "visibility" : [ ],
+    "resultType" : [ [ "String", "jse/1.6.0_22/java.lang/String" ] ],
+    "isUseCase" : false,
+    "alias" : [ [ "String", "jse/1.6.0_22/java.lang/String" ] ],
+    "kind" : "aliasType"
+  } ]
+}

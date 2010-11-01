@@ -1,0 +1,16 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoCaseObject/o$_productArity",
+  "e" : [ {
+    "name" : "productArity",
+    "qualifiedName" : "itest.demo1.DemoCaseObject#productArity",
+    "definitionName" : "itest.demo1.DemoCaseObject#productArity",
+    "flags" : "Public()",
+    "inheritedFrom" : [ "scala-library/2.8.0/scala/Product", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoCaseObject" ],
+    "visibility" : [ ],
+    "resultType" : [ [ "Int", "scala-library/2.8.0/scala/Int" ] ],
+    "isUseCase" : false,
+    "typeParams" : [ ],
+    "valueParams" : [ ],
+    "kind" : "def"
+  } ]
+}

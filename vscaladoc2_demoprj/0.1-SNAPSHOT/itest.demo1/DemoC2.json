@@ -1,0 +1,39 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoC2",
+  "e" : [ {
+    "name" : "DemoC2",
+    "qualifiedName" : "itest.demo1.DemoC2",
+    "definitionName" : "itest.demo1.DemoC2",
+    "description" : "<p>override method from parent DemoC and set type parameter to String\n</p>",
+    "docTags" : [ ],
+    "flags" : "Public()",
+    "inheritedFrom" : [ ],
+    "visibility" : [ ],
+    "resultType" : [ [ "DemoC2", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoC2" ] ],
+    "sourceStartPoint" : [ "/home/dwayne/work/oss/vscaladoc2_demoprj/src/main/scala/itest/demo1/DemoC.scala", 42 ],
+    "subClassesK" : [ ],
+    "members" : [ "scala-library/2.8.0/scala/Any/1.DemoC2$hash$bang$eq", "scala-library/2.8.0/scala/Any/1.DemoC2$hash$eq$eq", "scala-library/2.8.0/scala/Any/1.DemoC2$hashasInstanceOf", "scala-library/2.8.0/scala/Any/1.DemoC2$hashisInstanceOf", "scala-library/2.8.0/scala/AnyRef/emoC2$hash$asInstanceOf", "scala-library/2.8.0/scala/AnyRef/emoC2$hash$bang$eq", "scala-library/2.8.0/scala/AnyRef/emoC2$hash$eq$eq", "scala-library/2.8.0/scala/AnyRef/emoC2$hash$hash$hash", "scala-library/2.8.0/scala/AnyRef/emoC2$hash$isInstanceOf", "scala-library/2.8.0/scala/AnyRef/emoC2$hashclone", "scala-library/2.8.0/scala/AnyRef/emoC2$hasheq", "scala-library/2.8.0/scala/AnyRef/emoC2$hashequals", "scala-library/2.8.0/scala/AnyRef/emoC2$hashfinalize", "scala-library/2.8.0/scala/AnyRef/emoC2$hashgetClass", "scala-library/2.8.0/scala/AnyRef/emoC2$hashhashCode", "scala-library/2.8.0/scala/AnyRef/emoC2$hashne", "scala-library/2.8.0/scala/AnyRef/emoC2$hashnotify", "scala-library/2.8.0/scala/AnyRef/emoC2$hashnotifyAll", "scala-library/2.8.0/scala/AnyRef/emoC2$hashsynchronized", "scala-library/2.8.0/scala/AnyRef/emoC2$hashtoString", "scala-library/2.8.0/scala/AnyRef/emoC2$hashwait", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoC/$hashdoStuff", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoC/$hashmethodDeprecatedByAnnot", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoC/$hashmethodDeprecatedByDoc", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoC2/doStuff", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoC2/this" ],
+    "templates" : [ ],
+    "methods" : [ "scala-library/2.8.0/scala/Any/1.DemoC2$hash$bang$eq", "scala-library/2.8.0/scala/Any/1.DemoC2$hash$eq$eq", "scala-library/2.8.0/scala/Any/1.DemoC2$hashasInstanceOf", "scala-library/2.8.0/scala/Any/1.DemoC2$hashisInstanceOf", "scala-library/2.8.0/scala/AnyRef/emoC2$hash$asInstanceOf", "scala-library/2.8.0/scala/AnyRef/emoC2$hash$bang$eq", "scala-library/2.8.0/scala/AnyRef/emoC2$hash$eq$eq", "scala-library/2.8.0/scala/AnyRef/emoC2$hash$hash$hash", "scala-library/2.8.0/scala/AnyRef/emoC2$hash$isInstanceOf", "scala-library/2.8.0/scala/AnyRef/emoC2$hashclone", "scala-library/2.8.0/scala/AnyRef/emoC2$hasheq", "scala-library/2.8.0/scala/AnyRef/emoC2$hashequals", "scala-library/2.8.0/scala/AnyRef/emoC2$hashfinalize", "scala-library/2.8.0/scala/AnyRef/emoC2$hashgetClass", "scala-library/2.8.0/scala/AnyRef/emoC2$hashhashCode", "scala-library/2.8.0/scala/AnyRef/emoC2$hashne", "scala-library/2.8.0/scala/AnyRef/emoC2$hashnotify", "scala-library/2.8.0/scala/AnyRef/emoC2$hashnotifyAll", "scala-library/2.8.0/scala/AnyRef/emoC2$hashsynchronized", "scala-library/2.8.0/scala/AnyRef/emoC2$hashtoString", "scala-library/2.8.0/scala/AnyRef/emoC2$hashwait", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoC/$hashdoStuff", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoC/$hashmethodDeprecatedByAnnot", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoC/$hashmethodDeprecatedByDoc", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoC2/doStuff" ],
+    "values" : [ ],
+    "abstractTypes" : [ ],
+    "aliasTypes" : [ ],
+    "parentType" : [ [ "DemoC", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoC" ], [ "[" ], [ "String", "jse/1.6.0_22/java.lang/String" ], [ "]" ] ],
+    "linearization" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoC", "scala-library/2.8.0/scala/AnyRef", "scala-library/2.8.0/scala/Any" ],
+    "typeParams" : [ ],
+    "isCaseClass" : false,
+    "constructors" : [ {
+      "name" : "this",
+      "qualifiedName" : "itest.demo1.DemoC2#this",
+      "definitionName" : "itest.demo1.DemoC2#this",
+      "flags" : "Public()",
+      "inheritedFrom" : [ ],
+      "visibility" : [ ],
+      "resultType" : [ [ "DemoC2", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoC2" ] ],
+      "valueParams" : [ [ "( " ], [ "ctorArg1 : " ], [ "Int", "scala-library/2.8.0/scala/Int" ], [ ", " ], [ "ctorArg2 : " ], [ "String", "jse/1.6.0_22/java.lang/String" ], [ ", " ], [ "ctorArg3 : " ], [ "String", "jse/1.6.0_22/java.lang/String" ], [ " )" ] ],
+      "isPrimary" : true,
+      "kind" : "def"
+    } ],
+    "kind" : "class"
+  } ]
+}

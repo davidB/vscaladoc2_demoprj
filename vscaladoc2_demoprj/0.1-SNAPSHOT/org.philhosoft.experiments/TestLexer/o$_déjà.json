@@ -1,0 +1,14 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments/TestLexer/o$_déjà",
+  "e" : [ {
+    "name" : "déjà",
+    "qualifiedName" : "org.philhosoft.experiments.TestLexer#déjà",
+    "definitionName" : "org.philhosoft.experiments.TestLexer#déjà",
+    "flags" : "Public()",
+    "inheritedFrom" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments/TestLexer" ],
+    "visibility" : [ ],
+    "resultType" : [ [ "Char", "scala-library/2.8.0/scala/Char" ] ],
+    "isUseCase" : false,
+    "kind" : "var"
+  } ]
+}

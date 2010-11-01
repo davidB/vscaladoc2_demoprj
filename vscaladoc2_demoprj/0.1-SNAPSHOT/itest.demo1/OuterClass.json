@@ -1,0 +1,37 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/OuterClass",
+  "e" : [ {
+    "name" : "OuterClass",
+    "qualifiedName" : "itest.demo1.OuterClass",
+    "definitionName" : "itest.demo1.OuterClass",
+    "flags" : "Public()",
+    "inheritedFrom" : [ ],
+    "visibility" : [ ],
+    "resultType" : [ [ "OuterClass", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/OuterClass" ] ],
+    "sourceStartPoint" : [ "/home/dwayne/work/oss/vscaladoc2_demoprj/src/main/scala/itest/demo1/outerinner.scala", 9 ],
+    "subClassesK" : [ ],
+    "members" : [ "scala-library/2.8.0/scala/Any/1.OuterClass$hash$bang$eq", "scala-library/2.8.0/scala/Any/1.OuterClass$hash$eq$eq", "scala-library/2.8.0/scala/Any/1.OuterClass$hashasInstanceOf", "scala-library/2.8.0/scala/Any/1.OuterClass$hashisInstanceOf", "scala-library/2.8.0/scala/AnyRef/uterClass$hash$asInstanceOf", "scala-library/2.8.0/scala/AnyRef/uterClass$hash$bang$eq", "scala-library/2.8.0/scala/AnyRef/uterClass$hash$eq$eq", "scala-library/2.8.0/scala/AnyRef/uterClass$hash$hash$hash", "scala-library/2.8.0/scala/AnyRef/uterClass$hash$isInstanceOf", "scala-library/2.8.0/scala/AnyRef/uterClass$hashclone", "scala-library/2.8.0/scala/AnyRef/uterClass$hasheq", "scala-library/2.8.0/scala/AnyRef/uterClass$hashequals", "scala-library/2.8.0/scala/AnyRef/uterClass$hashfinalize", "scala-library/2.8.0/scala/AnyRef/uterClass$hashgetClass", "scala-library/2.8.0/scala/AnyRef/uterClass$hashhashCode", "scala-library/2.8.0/scala/AnyRef/uterClass$hashne", "scala-library/2.8.0/scala/AnyRef/uterClass$hashnotify", "scala-library/2.8.0/scala/AnyRef/uterClass$hashnotifyAll", "scala-library/2.8.0/scala/AnyRef/uterClass$hashsynchronized", "scala-library/2.8.0/scala/AnyRef/uterClass$hashtoString", "scala-library/2.8.0/scala/AnyRef/uterClass$hashwait", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/OuterClass.InnerClass", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/OuterClass.InnerObject", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/OuterClass/InnerType", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/OuterClass/this" ],
+    "templates" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/OuterClass.InnerClass", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/OuterClass.InnerObject" ],
+    "methods" : [ "scala-library/2.8.0/scala/Any/1.OuterClass$hash$bang$eq", "scala-library/2.8.0/scala/Any/1.OuterClass$hash$eq$eq", "scala-library/2.8.0/scala/Any/1.OuterClass$hashasInstanceOf", "scala-library/2.8.0/scala/Any/1.OuterClass$hashisInstanceOf", "scala-library/2.8.0/scala/AnyRef/uterClass$hash$asInstanceOf", "scala-library/2.8.0/scala/AnyRef/uterClass$hash$bang$eq", "scala-library/2.8.0/scala/AnyRef/uterClass$hash$eq$eq", "scala-library/2.8.0/scala/AnyRef/uterClass$hash$hash$hash", "scala-library/2.8.0/scala/AnyRef/uterClass$hash$isInstanceOf", "scala-library/2.8.0/scala/AnyRef/uterClass$hashclone", "scala-library/2.8.0/scala/AnyRef/uterClass$hasheq", "scala-library/2.8.0/scala/AnyRef/uterClass$hashequals", "scala-library/2.8.0/scala/AnyRef/uterClass$hashfinalize", "scala-library/2.8.0/scala/AnyRef/uterClass$hashgetClass", "scala-library/2.8.0/scala/AnyRef/uterClass$hashhashCode", "scala-library/2.8.0/scala/AnyRef/uterClass$hashne", "scala-library/2.8.0/scala/AnyRef/uterClass$hashnotify", "scala-library/2.8.0/scala/AnyRef/uterClass$hashnotifyAll", "scala-library/2.8.0/scala/AnyRef/uterClass$hashsynchronized", "scala-library/2.8.0/scala/AnyRef/uterClass$hashtoString", "scala-library/2.8.0/scala/AnyRef/uterClass$hashwait" ],
+    "values" : [ ],
+    "abstractTypes" : [ ],
+    "aliasTypes" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/OuterClass/InnerType" ],
+    "parentType" : [ [ "AnyRef" ] ],
+    "linearization" : [ "scala-library/2.8.0/scala/AnyRef", "scala-library/2.8.0/scala/Any" ],
+    "typeParams" : [ ],
+    "isCaseClass" : false,
+    "constructors" : [ {
+      "name" : "this",
+      "qualifiedName" : "itest.demo1.OuterClass#this",
+      "definitionName" : "itest.demo1.OuterClass#this",
+      "flags" : "Public()",
+      "inheritedFrom" : [ ],
+      "visibility" : [ ],
+      "resultType" : [ [ "OuterClass", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/OuterClass" ] ],
+      "valueParams" : [ [ "( )" ] ],
+      "isPrimary" : true,
+      "kind" : "def"
+    } ],
+    "kind" : "class"
+  } ]
+}

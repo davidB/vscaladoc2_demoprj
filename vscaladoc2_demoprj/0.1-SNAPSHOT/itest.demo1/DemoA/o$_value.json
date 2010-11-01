@@ -1,0 +1,16 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoA/o$_value",
+  "e" : [ {
+    "name" : "value",
+    "qualifiedName" : "itest.demo1.DemoA#value",
+    "definitionName" : "itest.demo1.DemoA#value",
+    "description" : "<p>description of value</p>",
+    "docTags" : [ ],
+    "flags" : "Public()",
+    "inheritedFrom" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoA" ],
+    "visibility" : [ ],
+    "resultType" : [ [ "String", "jse/1.6.0_22/java.lang/String" ] ],
+    "isUseCase" : false,
+    "kind" : "val"
+  } ]
+}

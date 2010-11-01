@@ -1,0 +1,22 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft",
+  "e" : [ {
+    "name" : "philhosoft",
+    "qualifiedName" : "org.philhosoft",
+    "definitionName" : "org.philhosoft",
+    "flags" : "Public()",
+    "inheritedFrom" : [ ],
+    "visibility" : [ ],
+    "resultType" : [ [ "philhosoft", "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft" ] ],
+    "subClassesK" : [ ],
+    "members" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments" ],
+    "templates" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments" ],
+    "methods" : [ ],
+    "values" : [ ],
+    "abstractTypes" : [ ],
+    "aliasTypes" : [ ],
+    "linearization" : [ ],
+    "packages" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments" ],
+    "kind" : "package"
+  } ]
+}

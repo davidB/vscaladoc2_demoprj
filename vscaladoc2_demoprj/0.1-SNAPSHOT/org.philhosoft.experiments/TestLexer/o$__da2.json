@@ -1,0 +1,14 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments/TestLexer/o$__da2",
+  "e" : [ {
+    "name" : "_da2",
+    "qualifiedName" : "org.philhosoft.experiments.TestLexer#_da2",
+    "definitionName" : "org.philhosoft.experiments.TestLexer#_da2",
+    "flags" : "Public()",
+    "inheritedFrom" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments/TestLexer" ],
+    "visibility" : [ ],
+    "resultType" : [ [ "Char", "scala-library/2.8.0/scala/Char" ] ],
+    "isUseCase" : false,
+    "kind" : "val"
+  } ]
+}

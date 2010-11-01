@@ -1,0 +1,16 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoCaseObject/o$_productElement",
+  "e" : [ {
+    "name" : "productElement",
+    "qualifiedName" : "itest.demo1.DemoCaseObject#productElement",
+    "definitionName" : "itest.demo1.DemoCaseObject#productElement",
+    "flags" : "Public()",
+    "inheritedFrom" : [ "scala-library/2.8.0/scala/Product", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoCaseObject" ],
+    "visibility" : [ ],
+    "resultType" : [ [ "Any", "scala-library/2.8.0/scala/Any" ] ],
+    "isUseCase" : false,
+    "typeParams" : [ ],
+    "valueParams" : [ [ "( " ], [ "arg0 : " ], [ "Int", "scala-library/2.8.0/scala/Int" ], [ " )" ] ],
+    "kind" : "def"
+  } ]
+}

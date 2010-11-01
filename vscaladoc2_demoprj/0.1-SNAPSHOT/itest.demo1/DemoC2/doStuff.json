@@ -1,0 +1,18 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoC2/doStuff",
+  "e" : [ {
+    "name" : "doStuff",
+    "qualifiedName" : "itest.demo1.DemoC2#doStuff",
+    "definitionName" : "itest.demo1.DemoC2#doStuff",
+    "description" : "<p>override method, try to inherit documentation\n{@inheritDoc}@param s\n@return\n</p>",
+    "docTags" : [ ],
+    "flags" : "Public()",
+    "inheritedFrom" : [ ],
+    "visibility" : [ ],
+    "resultType" : [ [ "String", "jse/1.6.0_22/java.lang/String" ] ],
+    "isUseCase" : false,
+    "typeParams" : [ ],
+    "valueParams" : [ [ "( " ], [ "s : " ], [ "String", "jse/1.6.0_22/java.lang/String" ], [ " )" ] ],
+    "kind" : "def"
+  } ]
+}

@@ -1,0 +1,14 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments/TestLexer/o$_mixed_with_op_$less$greater",
+  "e" : [ {
+    "name" : "mixed_with_op_<>",
+    "qualifiedName" : "org.philhosoft.experiments.TestLexer#mixed_with_op_<>",
+    "definitionName" : "org.philhosoft.experiments.TestLexer#mixed_with_op_<>",
+    "flags" : "Public()",
+    "inheritedFrom" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/org.philhosoft.experiments/TestLexer" ],
+    "visibility" : [ ],
+    "resultType" : [ [ "Int", "scala-library/2.8.0/scala/Int" ] ],
+    "isUseCase" : false,
+    "kind" : "val"
+  } ]
+}

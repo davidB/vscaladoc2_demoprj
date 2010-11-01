@@ -1,0 +1,16 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoA/o$_apply",
+  "e" : [ {
+    "name" : "apply",
+    "qualifiedName" : "itest.demo1.DemoA#apply",
+    "definitionName" : "itest.demo1.DemoA#apply",
+    "flags" : "Public()",
+    "inheritedFrom" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoA" ],
+    "visibility" : [ ],
+    "resultType" : [ [ "DemoA", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoA" ] ],
+    "isUseCase" : false,
+    "typeParams" : [ ],
+    "valueParams" : [ [ "( )" ] ],
+    "kind" : "def"
+  } ]
+}

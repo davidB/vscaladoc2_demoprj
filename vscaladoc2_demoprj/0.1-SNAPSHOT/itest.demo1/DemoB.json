@@ -1,0 +1,24 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB",
+  "e" : [ {
+    "name" : "DemoB",
+    "qualifiedName" : "itest.demo1.DemoB",
+    "definitionName" : "itest.demo1.DemoB",
+    "flags" : "Public()",
+    "inheritedFrom" : [ ],
+    "visibility" : [ ],
+    "resultType" : [ [ "DemoB", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB" ] ],
+    "sourceStartPoint" : [ "/home/dwayne/work/oss/vscaladoc2_demoprj/src/main/scala/itest/demo1/DemoB.scala", 3 ],
+    "subClassesK" : [ ],
+    "members" : [ "scala-library/2.8.0/scala/Any/1.DemoB$hash$bang$eq", "scala-library/2.8.0/scala/Any/1.DemoB$hash$eq$eq", "scala-library/2.8.0/scala/Any/1.DemoB$hashasInstanceOf", "scala-library/2.8.0/scala/Any/1.DemoB$hashisInstanceOf", "scala-library/2.8.0/scala/AnyRef/emoB$hash$asInstanceOf", "scala-library/2.8.0/scala/AnyRef/emoB$hash$bang$eq", "scala-library/2.8.0/scala/AnyRef/emoB$hash$eq$eq", "scala-library/2.8.0/scala/AnyRef/emoB$hash$hash$hash", "scala-library/2.8.0/scala/AnyRef/emoB$hash$isInstanceOf", "scala-library/2.8.0/scala/AnyRef/emoB$hashclone", "scala-library/2.8.0/scala/AnyRef/emoB$hasheq", "scala-library/2.8.0/scala/AnyRef/emoB$hashequals", "scala-library/2.8.0/scala/AnyRef/emoB$hashfinalize", "scala-library/2.8.0/scala/AnyRef/emoB$hashgetClass", "scala-library/2.8.0/scala/AnyRef/emoB$hashhashCode", "scala-library/2.8.0/scala/AnyRef/emoB$hashne", "scala-library/2.8.0/scala/AnyRef/emoB$hashnotify", "scala-library/2.8.0/scala/AnyRef/emoB$hashnotifyAll", "scala-library/2.8.0/scala/AnyRef/emoB$hashsynchronized", "scala-library/2.8.0/scala/AnyRef/emoB$hashtoString", "scala-library/2.8.0/scala/AnyRef/emoB$hashwait", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/deprecatedByAnnotation", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/deprecatedByCommentsTag", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/f2", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/methodWithTodoByCommentsTag", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/noArgsNoReturn", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/noArgsReturnString", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/returnThis", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/returnThisWithCovariantType", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/twoArgs", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/value", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/variable", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/zeroArgsNoReturn", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/zeroArgsReturnString" ],
+    "templates" : [ ],
+    "methods" : [ "scala-library/2.8.0/scala/Any/1.DemoB$hash$bang$eq", "scala-library/2.8.0/scala/Any/1.DemoB$hash$eq$eq", "scala-library/2.8.0/scala/Any/1.DemoB$hashasInstanceOf", "scala-library/2.8.0/scala/Any/1.DemoB$hashisInstanceOf", "scala-library/2.8.0/scala/AnyRef/emoB$hash$asInstanceOf", "scala-library/2.8.0/scala/AnyRef/emoB$hash$bang$eq", "scala-library/2.8.0/scala/AnyRef/emoB$hash$eq$eq", "scala-library/2.8.0/scala/AnyRef/emoB$hash$hash$hash", "scala-library/2.8.0/scala/AnyRef/emoB$hash$isInstanceOf", "scala-library/2.8.0/scala/AnyRef/emoB$hashclone", "scala-library/2.8.0/scala/AnyRef/emoB$hasheq", "scala-library/2.8.0/scala/AnyRef/emoB$hashequals", "scala-library/2.8.0/scala/AnyRef/emoB$hashfinalize", "scala-library/2.8.0/scala/AnyRef/emoB$hashgetClass", "scala-library/2.8.0/scala/AnyRef/emoB$hashhashCode", "scala-library/2.8.0/scala/AnyRef/emoB$hashne", "scala-library/2.8.0/scala/AnyRef/emoB$hashnotify", "scala-library/2.8.0/scala/AnyRef/emoB$hashnotifyAll", "scala-library/2.8.0/scala/AnyRef/emoB$hashsynchronized", "scala-library/2.8.0/scala/AnyRef/emoB$hashtoString", "scala-library/2.8.0/scala/AnyRef/emoB$hashwait", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/deprecatedByAnnotation", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/deprecatedByCommentsTag", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/f2", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/methodWithTodoByCommentsTag", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/noArgsNoReturn", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/noArgsReturnString", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/returnThis", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/returnThisWithCovariantType", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/twoArgs", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/zeroArgsNoReturn", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/zeroArgsReturnString" ],
+    "values" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/value", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB/variable" ],
+    "abstractTypes" : [ ],
+    "aliasTypes" : [ ],
+    "parentType" : [ [ "AnyRef" ] ],
+    "linearization" : [ "scala-library/2.8.0/scala/AnyRef", "scala-library/2.8.0/scala/Any" ],
+    "typeParams" : [ ],
+    "kind" : "trait"
+  } ]
+}

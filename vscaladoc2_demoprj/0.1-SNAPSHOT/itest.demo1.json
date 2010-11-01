@@ -1,0 +1,22 @@
+{
+  "uoa" : "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1",
+  "e" : [ {
+    "name" : "demo1",
+    "qualifiedName" : "itest.demo1",
+    "definitionName" : "itest.demo1",
+    "flags" : "Public()",
+    "inheritedFrom" : [ ],
+    "visibility" : [ ],
+    "resultType" : [ [ "demo1", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1" ] ],
+    "subClassesK" : [ ],
+    "members" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/$colon$colon", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoA", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoC", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoC2", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoCaseClass", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoCaseObject", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/OuterClass", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/OuterObject" ],
+    "templates" : [ "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/$colon$colon", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoA", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoB", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoC", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoC2", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoCaseClass", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/DemoCaseObject", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/OuterClass", "vscaladoc2_demoprj/0.1-SNAPSHOT/itest.demo1/OuterObject" ],
+    "methods" : [ ],
+    "values" : [ ],
+    "abstractTypes" : [ ],
+    "aliasTypes" : [ ],
+    "linearization" : [ ],
+    "packages" : [ ],
+    "kind" : "package"
+  } ]
+}
