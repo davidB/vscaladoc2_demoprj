@@ -1,5 +1,10 @@
 package itest.demo1
 
+trait MiniTrait {
+  def abstractMethod() : Int
+  def nonAbstractMethod() : Int = 33
+}
+
 trait DemoB {
   var variable = "Hello"
   val value = "World"
