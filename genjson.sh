@@ -21,7 +21,7 @@ cat >${PRJ_CFG_FILE} <<EOF
   "artifactId" : "${PRJ_ARTIFACTID}",
   "version" : "${PRJ_VERSION}",
   "dependencies" : [
-    ["${REPO}/org/scala-lang/scala-library/${SCALA_VERSION}/scala-library-${SCALA_VERSION}.jar", "scala-library", "${SCALA_VERSION}"]
+    ["${REPO}/org/scala-lang/scala-library/${SCALA_VERSION}/scala-library-${SCALA_VERSION}.jar", "scala-library/${SCALA_VERSION}"]
   ],
   "sources" : [
     ["${PRJ_DIR}/src/main/scala"]
@@ -37,7 +37,7 @@ cat >${SCALALIB_CFG_FILE} <<EOF
   "version" : "2.8.0",
   "logo" : "<a href='http://www.scala-lang.org/'><img src='http://lampsvn.epfl.ch/images/Scala_Logo2008.png'/></a>",
   "dependencies" : [
-    ["${REPO}/org/scala-lang/scala-library/${SCALA_VERSION}/scala-library-${SCALA_VERSION}.jar", "scala-library", "${SCALA_VERSION}"]
+    ["${REPO}/org/scala-lang/scala-library/${SCALA_VERSION}/scala-library-${SCALA_VERSION}.jar", "scala-library/${SCALA_VERSION}"]
   ],
   "sources" : [
     ["${HOME}/tmp/scala-2.8.0.final-sources/src/library", [], ["**/*.scala"]],
@@ -57,7 +57,7 @@ cat >${SCALAC_CFG_FILE} <<EOF
   "groupId" : "org.scala-lang",
   "version" : "2.8.0",
   "dependencies" : [
-    ["${REPO}/org/scala-lang/scala-library/${SCALA_VERSION}/scala-library-${SCALA_VERSION}.jar", "scala-library", "${SCALA_VERSION}"]
+    ["${REPO}/org/scala-lang/scala-library/${SCALA_VERSION}/scala-library-${SCALA_VERSION}.jar", "scala-library/${SCALA_VERSION}"]
   ],
   "sources" : [
     ["${HOME}/tmp/scala-2.8.0.final-sources/src/compiler"]
@@ -73,9 +73,9 @@ CLASSPATH_DEPS=${CLASSPATH_DEPS}:${REPO}/org/jsoup/jsoup/1.3.3/jsoup-1.3.3.jar
 MAIN_JAR=${PRJ_DIR}/../vscaladoc2_genjson/target/classes
 echo $MAIN_JAR
 
-#CFG_FILE=${SCALALIB_CFG_FILE}
+CFG_FILE=${SCALALIB_CFG_FILE}
 #CFG_FILE=${SCALAC_CFG_FILE}
-CFG_FILE=${PRJ_CFG_FILE}
+#CFG_FILE=${PRJ_CFG_FILE}
 
 MAIN_CLASS=net_alchim31_vscaladoc2_genjson.Main
 JAVA_OPTS="-Xms512M -Xmx2048M -Xss1M -XX:MaxPermSize=128M"
