@@ -9,7 +9,15 @@ import _root_.itest.demo1.MiniTrait
 class MiniTraitImplNoOverride extends MiniTrait {
   def abstractMethod() : Int = 10
 }
-     
+
+/**
+ * * object that extends a non empty trait.
+ * * define the abstract method from trait.
+ */ 
+class MiniTraitObjNoOverride extends MiniTrait {
+  def abstractMethod() : Int = 55
+}
+
 /**
  * * class that extends a trait define into an other package with longer name.
  * * define the abstract method from trait
