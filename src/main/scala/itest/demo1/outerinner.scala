@@ -4,10 +4,12 @@ object OuterObject {
     type InnerType = String
     object InnerObject
     class InnerClass
+    trait InnerTrait
 }
 
 class OuterClass {
-    type InnerType = String
+    type InnerPType[T] = List[T]
     object InnerObject
     class InnerClass
+    trait InnerTrait
 }

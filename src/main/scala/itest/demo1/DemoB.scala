@@ -17,8 +17,11 @@ trait DemoB {
   def zeroArgsNoReturn() = {}
   def twoArgs(i: Int, s: String) = {s.length + i}
 
-  @Deprecated
-  def deprecatedByAnnotation(i: Int) = i
+  @deprecated
+  def deprecatedByAnnotationNoMsg(i: Int) = i
+
+  @deprecated("replace by xxx")
+  def deprecatedByAnnotationWithMsg(i: Int) = i
 
   /**
    * @deprecated replace by ...
